@@ -113,10 +113,30 @@ p {
 .divTableRow {
 	display: table-row;
 }
-.divTableCell {
-	border: 1px solid #999999;
+.divTableCell1 {
+	border: 0px solid #FFFFFF;
 	display: table-cell;
-	padding: 3px 10px;
+	padding:   0px 0px 0px 0px;
+}
+.divTableCell2 {
+	border: 0px solid #FFFFFF;
+	display: table-cell;
+	padding:   0px 0px 0px 0px;
+}
+.divTableCell3 {
+	border: 0px solid #FFFFFF;
+	display: table-cell;
+	padding:   0px 80px 0px 80px;
+}
+.divTableCell4 {
+	border: 0px solid #FFFFFF;
+	display: table-cell;
+	padding:   0px 0px 0px 0px;
+}
+.divTableCell5 {
+	border: 0px solid #FFFFFF;
+	display: table-cell;
+	padding:   0px 100px 0px 0px;
 }
 .divTableBody {
 	display: table-row-group;
