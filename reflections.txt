@@ -1,0 +1,9 @@
+Reflections on "Licensing and You" project
+
+This project was started as an assignment in 2015 for CSCI 215 Social and Ethical Issues in Computer Science, which was a VERY interesting class. There were three of us that worked on it and we got into a good groove, although our responsibilities weren't exactly even, especially in the coding side of things. Matt had a great sense of this and handled all of the webhosting and HTML, while Brendan and I made the Word doc templates for the various pages, which Matt then converted to webpage coding. Overall, it worked well except for one major facet: Brendan and I didn't get the code from Matt. Now, the webpage was posted to https://www.termsandconundrums.com, so we had access to it. 
+
+I downloaded the main page and believed I had everything. I was not skilled at using GitHub then, so my versions weren't posting there and I could not figure out why. 
+
+So, MUCH later (in 2022_ when I am reviewing my Github entries for others to review as my portfolio, I realized that much of this project was missing. Worse, the website had been taken down long ago, and internet archives did not possess it, somehow missing that it was ever created. Normally, I could forget about it and move on, especially since we did make the templates and had all of the information that was used. However, this seemed like a very good time to research and finally pin down how to use Github and this project was simple enough to recover using the templates that I still had. Also, I just love the topic of licensing and how interesting it is, so I didn't mind redoing the pages that were done before.
+
+I went to work on it and learned the command line code to make a repository, clone one, and commit with the commensurate adding and push lines (what I was missing before), and of course, pulling when needed. So, this project was a glorious success in that regard. 
